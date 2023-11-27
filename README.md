@@ -53,15 +53,21 @@ Web site -> http://www.gilbertosantos.com
   <a href="https://www.instagram.com/gilbertopsantosjr/">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-gilbertopsantosjr-blue?style=flat-square&logo=instagram">
   </a>
+</p>
 
+<p>
   <a href="https://www.linkedin.com/in/gilbertopsantosjr/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-gilbertopsantosjr-blue?style=flat-square&logo=linkedin">
   </a>
+</p>
 
+<p>
   <a href="https://www.credly.com/users/gilberto-santos/badges">
     <img alt="credly" src="https://img.shields.io/badge/Credly-gilbertopsantosjr-blue?style=flat-square&logo=credly">
   </a>
+</p>
 
+<p>
   <a href="https://www.gilbertosantos.com">
     <img alt="Website" src="https://img.shields.io/badge/Website-https://www.gilbertosantos.com-blue?style=flat-square&logo=google-chrome">
   </a>
